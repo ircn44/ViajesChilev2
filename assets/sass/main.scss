@@ -1,0 +1,16 @@
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+//base
+@import "base/typography";
+
+
+//components
+@import "components/cards";
+@import "components/logos";
+@import "components/icons";
+@import "components/carousel";
+
+
+//layout
+@import "layouts/navigation";
+@import "layouts/forms";

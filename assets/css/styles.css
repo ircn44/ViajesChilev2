@@ -1,0 +1,82 @@
+body {
+    color: black;
+}
+
+a.navbar-brand {
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: 7px;
+}
+
+a.nav-link {
+    color: white;
+}
+#carousel {
+    background-color: black;
+}
+
+#carousel img {
+    object-fit: cover;
+    height: 900px;
+    width: auto;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 70px;
+    color: white;
+}
+
+p {
+    margin-top: 30px;
+    font-size: 20px;
+    text-align: left;
+}
+
+#QuienesSomos {
+    background-color: black;
+    color: white;
+    padding-top: 40px;
+}
+
+.tituloquienessomos {
+    margin-bottom: -20px;
+}
+
+
+#Destacados {
+    background-color: black;
+    color: white;
+    padding-top: 80px;
+}
+
+
+#Contacto {
+    background-color: black;
+    color: white;
+    padding-top: 100px;
+}
+
+button.btn.btn-primary {
+    background-color: #1d8acb;
+    margin-bottom: 30px;
+}
+
+
+#texto {
+    margin-top: 50px;
+    text-align: left;
+    margin-bottom: -6%;
+    font-size: 35px;
+}
+
+#iconos {
+    color: white;
+    margin-top: 6%;
+    margin-left: 20%;
+}
+
+#github, #linkedin, #twitter {
+    margin-right: -125px;
+}

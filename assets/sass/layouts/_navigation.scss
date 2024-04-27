@@ -1,0 +1,40 @@
+#QuienesSomos img {
+    width: 90%;
+    border-radius: 10px;
+}
+
+#TESTIMONIOS {
+    background-color: black;
+    color: rgb(214, 213, 151);
+    padding-top: 50px;
+}
+
+#TESTIMONIOS img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: 33%;
+    border: 2px solid white;
+}
+
+#TESTIMONIOS h4 {
+    margin-left: 40%;
+    margin-top: 8%;
+}
+
+#TESTIMONIOS p {
+    font-style: italic;
+}
+
+.phone span, .envelope span, .linkedin span, .instagram span {
+    font-size: 16px;
+    margin-left: 8px; /* Space between icon and text */
+  }
+
+
+.envelope span {
+    position: relative;
+    top: -25px;
+    margin-left: 35px;
+  }
+  
